@@ -1,0 +1,10 @@
+.Header{
+    position: absolute;
+    left: 41.5%;
+}
+.photo{
+    position: absolute;
+    width: 25%;
+    height: 75%;
+    border-radius: 150%;
+}
